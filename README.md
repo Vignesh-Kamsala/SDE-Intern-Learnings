@@ -22,6 +22,4 @@ A fully interactive Hangman game built with React and TypeScript.
 - Technologies: React, TypeScript, Tailwind CSS
 - Features: Component-driven logic, keyboard input, win/loss state tracking
 
----
 
-Let me know if you want help with writing individual `README.md` files or making a banner for your GitHub repo!
